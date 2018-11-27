@@ -1,4 +1,4 @@
-# Solution to Unity Banana Collector Environment using DQN with Prioritization Replay
+# Solution to Unity Banana Collector Environment using DQN
 
 ### Environment Details
 This PyTorch code trains an agent to navigate (and collect bananas!) in a large, square world.
