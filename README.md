@@ -29,3 +29,4 @@ The task is episodic, and in order to solve the environment, your agent must get
 ### Instructions
 
 run `python train_dqn_agent.py` in terminal to train agent!
+run `python demo_agent.py` in terminal to demo agent using pre-trained weights in `solution.pt`!
