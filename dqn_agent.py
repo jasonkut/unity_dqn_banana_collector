@@ -1,3 +1,4 @@
+# Code provided in Udacity's DeepRL Nanodegree
 import numpy as np
 import random
 from collections import namedtuple, deque
